@@ -433,13 +433,13 @@ button {
     .subheading{
         position: relative;
         top: 28%;
-        width: 70%;
+        width: 80%;
         left: 10%;
         font-size: 6vw;
     }
     .homebuttons{
         position: relative;
-        top: 42%;
+        top: 38%;
 
     }
 }
