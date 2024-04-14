@@ -427,15 +427,17 @@ button {
     position: relative;
     width: 80%;
     top: 25%;
-    left: 9%;
+    left: 6%;
     font-size: 4vw;
+    transition: left 1s ease-in-out 0.1s;
 }
     .subheading{
         position: relative;
         top: 28%;
         width: 80%;
-        left: 10%;
+        left: 6%;
         font-size: 6vw;
+        transition: left 1s ease-in-out 0.1s;
     }
     .homebuttons{
         position: relative;
