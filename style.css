@@ -21,7 +21,7 @@ body{
 
 }
 .section1 {
-    background-image: url(Capture.png);
+/*     background-image: url(Capture.png); */
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
