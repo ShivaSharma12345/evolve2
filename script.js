@@ -1,9 +1,9 @@
 
 document.addEventListener("DOMContentLoaded", () => {
     var w=window.outerWidth
-    {
+    
     let transis = document.getElementsByClassName("heading")[0];
-    transis.style.left = "10%";}
+    transis.style.left = "10%";
 }
 )
 document.addEventListener("DOMContentLoaded", () => {
